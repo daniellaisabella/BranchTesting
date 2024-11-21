@@ -18,4 +18,8 @@ public class Dog extends Animal {
         return happy;
     }
 
+    public double jump(double distance) {
+        return distance;
+    }
+
 }

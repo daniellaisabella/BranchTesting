@@ -8,4 +8,5 @@ public abstract class Animal {
 
     public abstract boolean showMood(boolean happy);
 
+    public abstract double jump(double distance);
 }
