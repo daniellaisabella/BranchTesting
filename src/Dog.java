@@ -4,4 +4,8 @@ public void makeSound() {
     System.out.println("Woof!");
 }
 
+public boolean eat(String foodType) {
+    return true;
+}
+
 }
